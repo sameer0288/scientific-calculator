@@ -11,6 +11,6 @@
 - Auto save last answer
 - Offline support ( *just visit the calculator once online & then you can visit this offline* )
 
-### [Explore Calculator]([live link](https://scientific-calculator-sameer.netlify.app/)https://scientific-calculator-sameer.netlify.app/)
+### [Explore Calculator]([live link](https://scientific-calculator-sameer.netlify.app/))
 
 ### Made by Sameer😎
