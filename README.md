@@ -1,4 +1,4 @@
-# [Scientific Calculator using plain JavaScript]([live link](https://scientific-calculator-sameer.netlify.app/))
+# [Scientific Calculator]([live link](https://scientific-calculator-sameer.netlify.app/))
 ### Experience the full power of this web calculator even if you're offline
 
 ##### This is a fully functional scientific calculator | Languages used => HTML, CSS, JavaScript.
